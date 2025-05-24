@@ -1,0 +1,14 @@
+img {
+  max-width: 100%;
+}
+.content {
+  max-width: 800px;
+  margin: auto;
+}
+p,
+ol,
+ul,
+br {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
